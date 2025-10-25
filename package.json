@@ -2,7 +2,11 @@
   "name": "mind-voyage-supply-co",
   "version": "1.0.0",
   "private": true,
-  "scripts": {
+  "scripts": {"scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start"
+}
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
